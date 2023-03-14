@@ -1,0 +1,15 @@
+C:\Users\MSI\Desktop\Python обучение\Final Test\Programm for Test\bin\Debug\net6.0\Programm for Test.exe
+C:\Users\MSI\Desktop\Python обучение\Final Test\Programm for Test\bin\Debug\net6.0\Programm for Test.deps.json
+C:\Users\MSI\Desktop\Python обучение\Final Test\Programm for Test\bin\Debug\net6.0\Programm for Test.runtimeconfig.json
+C:\Users\MSI\Desktop\Python обучение\Final Test\Programm for Test\bin\Debug\net6.0\Programm for Test.dll
+C:\Users\MSI\Desktop\Python обучение\Final Test\Programm for Test\bin\Debug\net6.0\Programm for Test.pdb
+C:\Users\MSI\Desktop\Python обучение\Final Test\Programm for Test\obj\Debug\net6.0\Programm for Test.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\Python обучение\Final Test\Programm for Test\obj\Debug\net6.0\Programm for Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\Python обучение\Final Test\Programm for Test\obj\Debug\net6.0\Programm for Test.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\Python обучение\Final Test\Programm for Test\obj\Debug\net6.0\Programm for Test.AssemblyInfo.cs
+C:\Users\MSI\Desktop\Python обучение\Final Test\Programm for Test\obj\Debug\net6.0\Programm for Test.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Python обучение\Final Test\Programm for Test\obj\Debug\net6.0\Programm for Test.dll
+C:\Users\MSI\Desktop\Python обучение\Final Test\Programm for Test\obj\Debug\net6.0\refint\Programm for Test.dll
+C:\Users\MSI\Desktop\Python обучение\Final Test\Programm for Test\obj\Debug\net6.0\Programm for Test.pdb
+C:\Users\MSI\Desktop\Python обучение\Final Test\Programm for Test\obj\Debug\net6.0\Programm for Test.genruntimeconfig.cache
+C:\Users\MSI\Desktop\Python обучение\Final Test\Programm for Test\obj\Debug\net6.0\ref\Programm for Test.dll
